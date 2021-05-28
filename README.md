@@ -1,2 +1,2 @@
-Maze_Runner_in_C
+# Maze_Runner_in_C
 Game
