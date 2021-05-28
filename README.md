@@ -1,2 +1,2 @@
-Maze Runner in C
+# Maze Runner in C
 Game
